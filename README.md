@@ -7,4 +7,4 @@ This website was created as a counter for the number of passengers entering a tr
 #### LIVE WEBSITE
 
 Access the live website using this Netlify link:
-trainpassengercounter.netlify.app/
+https://trainpassengercounter.netlify.app/
